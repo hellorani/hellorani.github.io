@@ -7,11 +7,7 @@ profile_picture:
     src: /assets/img/profile.jpg
 ---
 <h1>
-敬请期待！！！
+演出｜专辑｜视频｜艺术活动<br>
+          coming soon…<br>
+              敬请期待<br>
 </h1>
-<h2>
-敬请期待！！！
-</h2>
-<h3>
-敬请期待！！！
-</h3>
