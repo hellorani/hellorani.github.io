@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: OraniMusic
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -69,5 +69,6 @@ footer:
       link: mailto:halorani@163.com
   follow:
     - name: 网易云
+      link: https://music.163.com/#/artist?app_version=8.8.01&id=12905857&dlt=0846
     - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
+      link: https://weibo.com/u/7274370674
