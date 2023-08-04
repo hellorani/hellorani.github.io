@@ -60,6 +60,7 @@ header:
   pages:
     - name: Home
       slug: /     # <-- index.md
+    - name: Music
 
 footer:
   show_powered_by: true
